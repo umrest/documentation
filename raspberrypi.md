@@ -29,5 +29,3 @@ Run individual scripts (will need separate terminals for each script)
   cd data-aggregator
   ./tcp-serial.sh
   ```
-
-
