@@ -1,4 +1,4 @@
 # documentation
 
-[raspberrypi](raspberrypi.md)
-[dashboard](dashboard.md)
+- [raspberrypi](raspberrypi.md)
+- [dashboard](dashboard.md)
